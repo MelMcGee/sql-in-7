@@ -11,7 +11,7 @@ Part 4: Summarizing and Grouping Data
 Part 5: Modifying Sets of Data
 Part 6: Introduction to Solving Tough Problems
 
-The databases used in this book can be downloaded at www.informit.com/title/9780321992475
+The databases used in this book can be downloaded at www.informit.com/title/9780321992475 (at the bottom, look for the "downloads" tab and click to get the code files). You may also get these files from this repository. They are zipped and located in SQLQFMM3.zip.
 
 Please grab the databases there and insert them into your SSMS (SQL Server Management Studio) instance.
 
