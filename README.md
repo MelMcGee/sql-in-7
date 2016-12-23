@@ -1,6 +1,6 @@
 SQL in 7 days is a fast way to ramp up, yet a resource to review over the course of your initial years as a developer (and more).
 
-This We Can Code IT accelerated series uses SQL Queries for Mere Mortals in order to get a solid understanding of relations databases and SQL queries.
+This We Can Code IT accelerated series uses SQL Queries for Mere Mortals in order to get a solid understanding of relational databases and SQL queries.
 
 Parts of the 7 day series relate 1 to 1 with the Mere Mortals book.
 
