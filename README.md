@@ -22,7 +22,7 @@ Please grab the databases there and insert them into your SSMS (SQL Server Manag
 
 If you need to download SSMS or SQL Server, please see https://msdn.microsoft.com/en-us/library/hh213248.aspx and follow the instructions from there.
 
-If you need to download MySQL, see http://dev.mysql.com/downloads/.
+If you need to download MySQL, see http://dev.mysql.com/downloads/. Install MySQL and MySQL workbench.
 
 I haven't fully tested this, but if you'd like to try online sql, check out http://sqlfiddle.com/.
 
