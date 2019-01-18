@@ -14,8 +14,6 @@ If you need to download SSMS or SQL Server, please see https://msdn.microsoft.co
 
 If you need to download MySQL, see http://dev.mysql.com/downloads/. Install MySQL and MySQL workbench.
 
-I haven't fully tested this, but if you'd like to try online sql, check out http://sqlfiddle.com/.
-
-When you have finished downloading SSMS and SQL Server or MySQL and MySQL Workbench, follow along with the video found here: https://youtu.be/pfsSt2somfg
+When you have finished downloading and installing SSMS and SQL Server OR MySQL and MySQL Workbench, and the databases (above), follow along with the video found here: https://youtu.be/pfsSt2somfg
 
 Please email me if you run into any blockers.
