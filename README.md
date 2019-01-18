@@ -2,6 +2,7 @@ SQL pre-work is a fast way to ramp up for the SQL Data Analytics Seminar.
 
 Please refer to the required book, SQL Queries for Mere Mortals,  in order to get a solid understanding of relational databases and SQL queries.
 Part 1: Relational Databases and SQL
+- Review the slides here: https://github.com/MelMcGee/sql-pre-work/blob/master/SQL%20in%207.%20Day%201.%20Relational%20DBs%20and%20SQL%20Overview.%20%20(1).pdf
 
 Part 2: SQL Basics
 
